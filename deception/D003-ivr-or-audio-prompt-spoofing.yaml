@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: D003
+name: IVR or audio prompt spoofing
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A fake phone menu, hold music, or automated message designed to sound
+  like a real support line.
+tags:
+- spoofing
+- phone
+- audio

@@ -1,0 +1,12 @@
+spec_version: '0.3'
+id: C005.003
+name: Sextortion
+stage: Coercion
+stage_id: C000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A threat to share sexual images or videos unless payment is made.
+parent: C005
+tags:
+- blackmail
+- sextortion

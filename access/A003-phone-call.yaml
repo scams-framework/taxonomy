@@ -1,0 +1,11 @@
+spec_version: '0.3'
+id: A003
+name: Phone call
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A call from a live caller, robocall, or AI-generated voice.
+tags:
+- phone
+- voice

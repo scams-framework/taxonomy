@@ -1,0 +1,15 @@
+spec_version: '0.3'
+id: A017
+name: AI answer poisoning
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A scam phone number, URL, or false claim embedded in web content and
+  optimized to appear in AI-generated search answers.
+tags:
+- search
+- ai
+- aeo
+- geo
+- llm-poisoning

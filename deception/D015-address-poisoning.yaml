@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: D015
+name: Address poisoning
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A tiny cryptocurrency transaction from a lookalike wallet address designed
+  to pollute the victim's transaction history so they copy the wrong address.
+tags:
+- crypto
+- wallet
+- address-poisoning

@@ -1,0 +1,9 @@
+spec_version: '0.3'
+id: B002.002
+name: Unusual or suspicious login
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An alert or notification of a login via an unfamiliar device or location.
+parent: B002

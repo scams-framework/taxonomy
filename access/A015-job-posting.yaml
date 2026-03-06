@@ -1,0 +1,10 @@
+spec_version: '0.3'
+id: A015
+name: Job posting
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A job posting on a platform such as Indeed, LinkedIn, or Craigslist.
+tags:
+- employment

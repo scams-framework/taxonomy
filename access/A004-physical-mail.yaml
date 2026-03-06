@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: A004
+name: Physical mail
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A letter or package delivered via postal mail or courier services.
+tags:
+- mail
+- snail-mail
+- letter
+- postal

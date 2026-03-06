@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: A013.002
+name: Search-engine advertisement
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A sponsored search result on search engines such as Google, Bing, Yahoo,
+  or DuckDuckGo.
+parent: A013
+tags:
+- search
+- ad
+- sponsored

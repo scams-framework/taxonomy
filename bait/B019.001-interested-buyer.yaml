@@ -1,0 +1,9 @@
+spec_version: '0.3'
+id: B019.001
+name: Interested buyer
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An interested buyer eager to purchase the victim's listed item.
+parent: B019

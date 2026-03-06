@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: B007
+name: Repair or maintenance offer
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An unsolicited offer to repair or service the victim's property, vehicle,
+  or device based on a fabricated or exaggerated problem.
+tags:
+- repair
+- maintenance
+- contractor
+- solicitation

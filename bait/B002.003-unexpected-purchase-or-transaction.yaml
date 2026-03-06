@@ -1,0 +1,10 @@
+spec_version: '0.3'
+id: B002.003
+name: Unexpected purchase or transaction
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An alert or notification asking the victim to confirm or deny a purchase
+  or transaction.
+parent: B002

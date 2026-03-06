@@ -1,0 +1,52 @@
+spec_version: '0.3'
+name: 'SC&MS: Scam Classification & Mapping System'
+version: '0.3'
+release_date: '2026-03-07'
+description: A structured taxonomy for classifying scam techniques from first contact
+  to financial extraction
+author: Satnam Singh Narang
+license: CC BY-ND 4.0
+url: https://scams.dev
+stages:
+- id: A000
+  name: Access
+  description: Vectors used to initiate first contact with a potential victim.
+  technique_count: 19
+  subtechnique_count: 6
+  total: 25
+- id: B000
+  name: Bait
+  description: Lures, offers, and alerts used to entice a victim's engagement.
+  technique_count: 22
+  subtechnique_count: 19
+  total: 41
+- id: C000
+  name: Coercion
+  description: Pressure and control tactics used to compel action or maintain compliance.
+  technique_count: 8
+  subtechnique_count: 13
+  total: 21
+- id: D000
+  name: Deception
+  description: Fabricated or manipulated artifacts used to mislead victims and make
+    the scam believable.
+  technique_count: 17
+  subtechnique_count: 10
+  total: 27
+- id: E000
+  name: Exploiting Trust
+  description: Borrowed or cultivated trust used to lower a victim's skepticism.
+  technique_count: 13
+  subtechnique_count: 7
+  total: 20
+- id: F000
+  name: Financial Gain
+  description: Methods used to extract money, assets, or other value from victims.
+  technique_count: 14
+  subtechnique_count: 8
+  total: 22
+statistics:
+  total_stages: 6
+  total_techniques: 93
+  total_subtechniques: 63
+  total_items: 156

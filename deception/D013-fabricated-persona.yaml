@@ -1,0 +1,12 @@
+spec_version: '0.3'
+id: D013
+name: Fabricated persona
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A fabricated identity constructed from stolen or AI-generated photos
+  and an invented backstory.
+tags:
+- identity
+- social-engineering

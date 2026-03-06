@@ -1,0 +1,9 @@
+spec_version: '0.3'
+id: B009.005
+name: Government grant or stimulus
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An offer of a government grant, stimulus check, or refund.
+parent: B009

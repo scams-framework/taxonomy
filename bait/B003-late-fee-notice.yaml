@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: B003
+name: Late fee notice
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A notice that a bill or payment is overdue and that a late fee will be
+  charged if not paid promptly.
+tags:
+- notice
+- late-fee
+subtechniques:
+- B003.001

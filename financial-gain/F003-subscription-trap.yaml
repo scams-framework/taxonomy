@@ -1,0 +1,15 @@
+spec_version: '0.3'
+id: F003
+name: Subscription trap
+stage: Financial Gain
+stage_id: F000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A recurring charge that the victim enrolls in under misleading terms
+  or that is deliberately difficult to cancel.
+tags:
+- payment
+- subscription
+- fleeceware
+- negative-option
+- recurring

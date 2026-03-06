@@ -1,0 +1,12 @@
+spec_version: '0.3'
+id: C004.002
+name: Physical threats
+stage: Coercion
+stage_id: C000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A threat of violence or bodily harm to the victim or their loved ones.
+parent: C004
+tags:
+- threats
+- physical

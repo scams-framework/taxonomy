@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: C001.002
+name: Overdue payment
+stage: Coercion
+stage_id: C000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A claim that a payment is overdue and must be paid immediately to avoid
+  penalties.
+parent: C001
+tags:
+- urgency
+- payment

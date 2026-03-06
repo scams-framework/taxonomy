@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: C004
+name: Explicit threats
+stage: Coercion
+stage_id: C000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A direct threat of harm or penalty if demands are not met.
+tags:
+- threats
+subtechniques:
+- C004.001
+- C004.002

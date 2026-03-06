@@ -1,0 +1,12 @@
+spec_version: '0.3'
+id: A008
+name: Gaming service message
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A message on gaming platforms such as Steam, Xbox Live, PlayStation Network,
+  or Roblox.
+tags:
+- gaming
+- messaging

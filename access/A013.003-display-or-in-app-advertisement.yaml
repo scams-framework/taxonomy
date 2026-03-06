@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: A013.003
+name: Display or in-app advertisement
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A banner, video, or pop-up ad displayed on websites or mobile apps.
+parent: A013
+tags:
+- display
+- ad
+- malvertising
+- mobile

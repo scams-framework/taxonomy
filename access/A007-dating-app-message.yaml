@@ -1,0 +1,11 @@
+spec_version: '0.3'
+id: A007
+name: Dating-app message
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A message on dating apps such as Tinder, Bumble, or Hinge.
+tags:
+- dating
+- messaging

@@ -1,0 +1,12 @@
+spec_version: '0.3'
+id: D017
+name: Fabricated organization
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A fake company or project built across multiple platforms to appear legitimate.
+tags:
+- identity
+- organization
+- infrastructure

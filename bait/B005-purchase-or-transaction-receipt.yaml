@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: B005
+name: Purchase or transaction receipt
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A receipt or confirmation for a product or subscription purchase that
+  the victim never made.
+tags:
+- purchase
+- transaction
+- receipt

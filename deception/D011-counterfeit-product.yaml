@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: D011
+name: Counterfeit product
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A product that is forged, altered, or misrepresented to appear genuine
+  or of higher quality.
+tags:
+- counterfeit
+- product
+- forgery

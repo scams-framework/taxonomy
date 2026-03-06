@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: B010
+name: Investment opportunity
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An opportunity to invest in stocks, cryptocurrency, or physical assets.
+tags:
+- investment
+- cryptocurrency
+- stocks
+- real-estate

@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: F013
+name: Money mule transfer
+stage: Financial Gain
+stage_id: F000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A transfer of funds through accounts belonging to unwitting or complicit
+  intermediaries to obscure the money trail before reaching the scammer.
+tags:
+- laundering
+- mule
+- transfer

@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: C008.002
+name: Covert surveillance
+stage: Coercion
+stage_id: C000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A monitoring tactic disguised as assistance or account protection to
+  track the victim's actions.
+parent: C008
+tags:
+- surveillance
+- control
+- monitoring

@@ -1,0 +1,12 @@
+spec_version: '0.3'
+id: B022
+name: Overpayment claim
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A payment or claimed payment for more than the amount owed, with a request
+  to send back the difference.
+tags:
+- overpayment
+- refund

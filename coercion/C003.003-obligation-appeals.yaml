@@ -1,0 +1,12 @@
+spec_version: '0.3'
+id: C003.003
+name: Obligation appeals
+stage: Coercion
+stage_id: C000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An appeal to duty, reciprocity, or social expectations.
+parent: C003
+tags:
+- emotional-manipulation
+- obligation

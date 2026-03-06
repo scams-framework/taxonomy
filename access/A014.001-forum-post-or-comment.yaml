@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: A014.001
+name: Forum post or comment
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A post or comment in discussion forums such as Reddit or dedicated community
+  boards.
+parent: A014
+tags:
+- community
+- forum
+- post

@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: B018
+name: Gamified task offer
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An offer of paid online tasks, such as liking videos or rating products,
+  with small initial payouts to establish credibility.
+tags:
+- employment
+- task
+- gamification

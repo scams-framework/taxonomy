@@ -1,0 +1,15 @@
+spec_version: '0.3'
+id: D012.001
+name: Voice cloning
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An AI-generated voice that replicates a specific person's speech or produces
+  a realistic synthetic voice.
+parent: D012
+tags:
+- deepfake
+- ai
+- voice
+- phone

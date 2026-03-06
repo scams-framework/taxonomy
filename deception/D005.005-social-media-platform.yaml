@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: D005.005
+name: Social media platform
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A phishing site mimicking Facebook, Instagram, TikTok, or X/Twitter login.
+parent: D005
+tags:
+- phishing
+- web
+- social

@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: F008.003
+name: Cryptocurrency exchange account takeover
+stage: Financial Gain
+stage_id: F000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A takeover of a crypto exchange account to withdraw or liquidate digital
+  assets.
+parent: F008
+tags:
+- account-takeover
+- theft
+- crypto

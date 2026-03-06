@@ -1,0 +1,9 @@
+spec_version: '0.3'
+id: B012.001
+name: TV show, movie, or book
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An offer of free streaming or e-book downloads of copyrighted content.
+parent: B012

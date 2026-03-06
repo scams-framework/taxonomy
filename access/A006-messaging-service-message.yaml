@@ -1,0 +1,12 @@
+spec_version: '0.3'
+id: A006
+name: Messaging-service message
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A direct message on messaging apps such as WhatsApp, Telegram, Signal,
+  or Discord.
+tags:
+- messaging
+- mobile

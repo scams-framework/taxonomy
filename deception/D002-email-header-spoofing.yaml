@@ -1,0 +1,11 @@
+spec_version: '0.3'
+id: D002
+name: Email header spoofing
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A spoofed email From field that appears to come from a legitimate sender.
+tags:
+- spoofing
+- email

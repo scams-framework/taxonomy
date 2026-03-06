@@ -1,0 +1,16 @@
+spec_version: '0.3'
+id: F008
+name: Account takeover
+stage: Financial Gain
+stage_id: F000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A takeover of a banking, payment, or crypto account to drain balances
+  or send transfers.
+tags:
+- account-takeover
+- theft
+subtechniques:
+- F008.001
+- F008.002
+- F008.003

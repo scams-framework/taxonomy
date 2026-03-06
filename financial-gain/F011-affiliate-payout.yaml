@@ -1,0 +1,15 @@
+spec_version: '0.3'
+id: F011
+name: Affiliate payout
+stage: Financial Gain
+stage_id: F000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A payout earned from an affiliate or referral program by driving victim
+  traffic or conversions.
+tags:
+- revenue
+- affiliate
+subtechniques:
+- F011.001
+- F011.002

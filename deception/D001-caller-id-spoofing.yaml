@@ -1,0 +1,11 @@
+spec_version: '0.3'
+id: D001
+name: Caller-ID spoofing
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A spoofed caller-ID that displays a trusted number or organization.
+tags:
+- spoofing
+- phone

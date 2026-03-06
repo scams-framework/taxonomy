@@ -1,0 +1,18 @@
+spec_version: '0.3'
+id: D005
+name: Phishing website
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A fake website that mimics a real login page to steal usernames, passwords,
+  or payment information.
+tags:
+- phishing
+- web
+subtechniques:
+- D005.001
+- D005.002
+- D005.003
+- D005.004
+- D005.005

@@ -1,0 +1,15 @@
+spec_version: '0.3'
+id: A013
+name: Online advertisement
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A paid advertisement on social media, search engines, websites, or apps.
+tags:
+- ad
+- sponsored
+subtechniques:
+- A013.001
+- A013.002
+- A013.003

@@ -1,0 +1,12 @@
+spec_version: '0.3'
+id: A011
+name: Social-media post
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A public post on social media such as Instagram, X/Twitter, Facebook,
+  or TikTok.
+tags:
+- social
+- post

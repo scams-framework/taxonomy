@@ -1,0 +1,10 @@
+spec_version: '0.3'
+id: B009.001
+name: Lottery or lotto winnings
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An offer from a lottery winner to share proceeds, or a notice that the
+  recipient has won a state lotto.
+parent: B009

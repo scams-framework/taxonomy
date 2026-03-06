@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: C005.002
+name: Reputational blackmail
+stage: Coercion
+stage_id: C000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A threat to damage professional or social standing through public accusations
+  or leaks.
+parent: C005
+tags:
+- blackmail
+- reputation

@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: A010
+name: Group chat message
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A message in a group chat, such as a WhatsApp group, Telegram group,
+  Discord server, or Slack workspace.
+tags:
+- group
+- messaging
+- community

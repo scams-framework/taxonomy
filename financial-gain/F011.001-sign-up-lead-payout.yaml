@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: F011.001
+name: Sign-up lead payout
+stage: Financial Gain
+stage_id: F000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A payout for converting a user who completes a free registration or installs
+  an app.
+parent: F011
+tags:
+- revenue
+- affiliate
+- lead

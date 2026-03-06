@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: D016
+name: Remote access tool abuse
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A legitimate remote access tool such as AnyDesk or TeamViewer that the
+  victim installs under false pretenses, giving the scammer control of their device.
+tags:
+- remote-access
+- software
+- device-control

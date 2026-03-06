@@ -1,0 +1,15 @@
+spec_version: '0.3'
+id: F009.003
+name: Wallet drainer contract
+stage: Financial Gain
+stage_id: F000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A malicious smart contract that drains funds when victims connect their
+  crypto wallet.
+parent: F009
+tags:
+- theft
+- crypto
+- wallet
+- malware

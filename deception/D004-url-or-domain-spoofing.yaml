@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: D004
+name: URL or domain spoofing
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A spoofed web address designed to mimic a legitimate domain through typosquatting,
+  homograph characters, subdomain manipulation, or platform display features.
+tags:
+- spoofing
+- url
+- domain
+- typosquatting

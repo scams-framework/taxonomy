@@ -1,0 +1,12 @@
+spec_version: '0.3'
+id: C007
+name: Isolation tactics
+stage: Coercion
+stage_id: C000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A demand for secrecy or sustained contact that prevents the victim from
+  seeking outside help or verification.
+tags:
+- isolation
+- control

@@ -1,0 +1,15 @@
+spec_version: '0.3'
+id: A019
+name: Browser or system alert
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A popup, notification, or alert displayed in a web browser or operating
+  system.
+tags:
+- popup
+- alert
+- browser
+- system
+- mobile

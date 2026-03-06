@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: D012.003
+name: AI-generated image
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: An AI-generated image of a person, product, or document designed to appear
+  authentic.
+parent: D012
+tags:
+- deepfake
+- ai
+- image

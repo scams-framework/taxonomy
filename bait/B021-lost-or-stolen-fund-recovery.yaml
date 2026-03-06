@@ -1,0 +1,11 @@
+spec_version: '0.3'
+id: B021
+name: Lost or stolen fund recovery
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A claim that funds lost to a previous scam or fraud can be recovered.
+tags:
+- recovery
+- refund

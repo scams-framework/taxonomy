@@ -1,0 +1,17 @@
+spec_version: '0.3'
+id: D014
+name: Fabricated social proof
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: Fabricated evidence that others have benefited from or endorsed a product,
+  service, or opportunity.
+tags:
+- social-proof
+- testimonials
+- reviews
+- endorsements
+subtechniques:
+- D014.001
+- D014.002

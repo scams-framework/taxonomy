@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: A013.001
+name: Social-media advertisement
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A sponsored post or advertisement on social media such as Instagram,
+  X/Twitter, Facebook, or TikTok.
+parent: A013
+tags:
+- social
+- ad
+- sponsored

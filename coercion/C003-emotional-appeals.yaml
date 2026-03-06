@@ -1,0 +1,17 @@
+spec_version: '0.3'
+id: C003
+name: Emotional appeals
+stage: Coercion
+stage_id: C000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A manipulation of the victim's emotions to compel compliance or cloud
+  judgment.
+tags:
+- emotional-manipulation
+subtechniques:
+- C003.001
+- C003.002
+- C003.003
+- C003.004
+- C003.005

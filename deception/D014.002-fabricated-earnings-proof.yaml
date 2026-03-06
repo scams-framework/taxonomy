@@ -1,0 +1,14 @@
+spec_version: '0.3'
+id: D014.002
+name: Fabricated earnings proof
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: Fabricated screenshots or images showing earnings, payouts, or investment
+  returns attributed to other users.
+parent: D014
+tags:
+- social-proof
+- earnings
+- screenshots

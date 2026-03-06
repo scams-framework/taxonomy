@@ -1,0 +1,11 @@
+spec_version: '0.3'
+id: A002
+name: Text message
+stage: Access
+stage_id: A000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A text message (SMS, MMS, iMessage, or Rich Communication Services).
+tags:
+- sms
+- mobile

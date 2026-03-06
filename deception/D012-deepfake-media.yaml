@@ -1,0 +1,17 @@
+spec_version: '0.3'
+id: D012
+name: Deepfake media
+stage: Deception
+stage_id: D000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: AI-generated or manipulated audio, image, or video designed to be mistaken
+  for authentic.
+tags:
+- deepfake
+- ai
+- media
+subtechniques:
+- D012.001
+- D012.002
+- D012.003

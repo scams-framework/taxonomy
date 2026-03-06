@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: F007
+name: Bank or wire transfer
+stage: Financial Gain
+stage_id: F000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A money transfer via bank wire, ACH, or peer-to-peer payment service
+  (Zelle, Venmo, Cash App) to a scammer-controlled account.
+tags:
+- payment
+- wire-transfer
+- banking

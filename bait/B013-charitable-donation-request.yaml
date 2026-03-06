@@ -1,0 +1,13 @@
+spec_version: '0.3'
+id: B013
+name: Charitable donation request
+stage: Bait
+stage_id: B000
+created: '2025-09-01'
+modified: '2026-03-07'
+description: A request for donations to a fraudulent charity, disaster relief fund,
+  or humanitarian cause.
+tags:
+- charity
+- donation
+- disaster-relief
